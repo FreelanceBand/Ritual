@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Corinthia;
+    src: url('../fonts/Corinthia.ttf');
+}
+
+@font-face {
+    font-family: MyriadPro-Bold;
+    src: url('../fonts/MyriadPro-Bold.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-BoldCondIt;
+    src: url('../fonts/MyriadPro-BoldCondIt.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-BoldIt;
+    src: url('../fonts/MyriadPro-BoldIt.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-Cond;
+    src: url('../fonts/MyriadPro-Cond.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-CondIt;
+    src: url('../fonts/MyriadPro-CondIt.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-It;
+    src: url('../fonts/MyriadPro-It.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('../fonts/MyriadPro-Regular.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-Semibold;
+    src: url('../fonts/MyriadPro-Semibold.otf');
+}
+
+@font-face {
+    font-family: MyriadPro-SemiboldIt;
+    src: url('../fonts/MyriadPro-SemiboldIt.otf');
+}
